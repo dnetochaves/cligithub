@@ -1,0 +1,6 @@
+#!/home/galahybook2/Documentos/repositorio/typer/cligithub/venv_cligithub/bin/python
+import sys
+from cligithub.main import app
+
+if __name__ == '__main__':
+    sys.exit(app())

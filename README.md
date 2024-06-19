@@ -1,2 +1,1 @@
-# cligithub
-cligithub
+# Interface de linha de comando github para otimizar interação com github
